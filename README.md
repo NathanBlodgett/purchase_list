@@ -1,3 +1,3 @@
 # purchase_list
 
-Simple way to keep track of your items purchase when going to a store. 
+Simple way to keep track of your purchase items when going to a store. 
